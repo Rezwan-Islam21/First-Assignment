@@ -87,6 +87,11 @@ section{
     padding: 2% 1%;
     border-radius: 10px;
 }
+.client{
+    background-repeat: no-repeat;
+    background-image: url(Images/footer-bg.png);
+    background-size: 100%;
+}
 footer p{
     text-align: center;
     color: gray;
