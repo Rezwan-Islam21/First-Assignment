@@ -40,7 +40,7 @@ section{
     background-size: 100%;
 }
 .cv{
-    background-image: linear-gradient(45deg, rgb(235, 19, 66), rgb(253, 128, 149));
+    background-image: linear-gradient(45deg, rgb(235, 71, 106), rgb(230, 74, 100));
 }
 #no-color{
     color: black;
@@ -69,4 +69,25 @@ section{
     background-repeat: no-repeat;
     background-image: url(Images/latest-work-bg.png);
     background-size: 100%;
+}
+.client-half{
+    text-align: center;
+    color: black;
+}
+.gray{
+    color: gray;
+}
+.Leave-message{
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(45deg, rgb(235, 71, 106), rgb(230, 74, 100));
+    height: 150px;
+    width: 50%;
+    margin: 4% 25%;
+    padding: 2% 1%;
+    border-radius: 10px;
+}
+footer p{
+    text-align: center;
+    color: gray;
 }
