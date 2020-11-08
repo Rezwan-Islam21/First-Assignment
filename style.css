@@ -20,7 +20,9 @@ h2{
     margin: 5% 0% 0% 10%;
 }
 img{
-    width: 100%;
+    width: 65%;
+    padding: 75px;
+    
 }
 .link-button{
     color:white;
@@ -56,7 +58,6 @@ section{
 #third-part{
     color: black;
     text-align: center;
-    margin-top: 15%;
 }
 .Latest-work-pictures{
     width: 26%;
